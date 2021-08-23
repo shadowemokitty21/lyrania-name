@@ -9,3 +9,4 @@ div.chatline span [href*="ShadowEmoCat"] .chatname {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+}
