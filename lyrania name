@@ -1,0 +1,11 @@
+div.chatline span [href*="ShadowEmoCat"] .chatname {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: -webkit-gradient(linear, left top, right top, from(red), to(black));
+  background: -webkit-linear-gradient(right, red, black);
+  background: -moz-linear-gradient(right, red, black);
+  background: -o-linear-gradient(right, red, black);
+  background: linear-gradient(to right, red, black);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
